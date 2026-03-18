@@ -1,0 +1,49 @@
+{
+  "version": 1,
+  "base_track": "Kaneki, FAMINTØ",
+  "base_artist": "M4rkim",
+  "createdAt": "2026-03-18T14:06:52.824258Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Rap Do Kaneki: Faminto Por Humanos (Nerd Hits)",
+      "artist": "7 Minutoz",
+      "has_synced": true,
+      "path": "select/01_Rap_Do_Kaneki__Faminto_Por_Humanos_(Nerd_Hits)_7_Minutoz.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Kaneki, Faminto",
+      "artist": "M4rkim",
+      "has_synced": true,
+      "path": "select/02_Kaneki,_Faminto_M4rkim.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Kaneki, Faminto",
+      "artist": "M4rkim",
+      "has_synced": true,
+      "path": "select/03_Kaneki,_Faminto_M4rkim.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Kaneki, FAMINTØ",
+      "artist": "M4rkim",
+      "has_synced": true,
+      "path": "select/04_Kaneki,_FAMINTØ_M4rkim.lrc"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "Kaneki, FAMINTØ",
+      "artist": "M4rkim",
+      "has_synced": true,
+      "path": "select/localdb_01_Kaneki,_FAMINTØ_M4rkim.lrc",
+      "repo_name": "zzLrHzJrSi4"
+    }
+  ]
+}
